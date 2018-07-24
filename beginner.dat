@@ -2,90 +2,119 @@ hi - xin chào
 apple - quả táo
 orange - quả cam
 good bye - tạm biệt
-apple - quả táo
-orange - quả cam
-good bye - tạm biệt
-Abalone - Bào ngư
-Ant - Kiến
-Bear - Gấu
-Butterfly - Bướm
-Cat - Mèo
-Chamois - Sơn dương
-Camel - Lạc đà
-Crocodile - Cá sấu
-Dog - Con chó
-Donkey - Con lừa
-Dragon-fly - Chuồn chuồn
-Dromedary - Lạc đà 1 bướu
-Eel - Lươn
-Elephant - Voi
-Falcon - Chim ưng
-Fly - Ruồi
-Fox - Cáo
-Frog - Ếch
-Giraffe - Hươu cao cổ
-Grasshopper - Châu chấu
-Hummingbird - Chim ruồi
-Insect - Côn trùng
-Jellyfish - Sứa
-Ladybird - Bọ rùa
-Leopard - Con báo
-Lion - Sư tử
-Locust - Cào cào
-Monkey - Khỉ
-Mosquito - Muỗi
-Mouse - Chuột
-Mule - Con la
-Mussel - Con trai
-Octopus - Bạch tuộc
-Ostrich - Đà điểu
-Owl - Cú
-Panda - Gấu trúc
-Parrot - Vẹt
-Peacock - Con công
-Sheep - Cừu
-Tiger - Hổ
-Accountant - Kế toán viên
-Actor - Nam diễn viên
-Actress - Nữ diễn viên
-Architect - Kiến trúc sư
-Artist - Họa sĩ
-Baker - Thợ làm bánh
-Barber - Thợ cắt tóc
-Bricklayer - Phụ hồ
-Businessman - Doanh nhân nam
-Businesswoman - Doanh nhân nữ
-Butcher - Người bán thịt
-Carpenter - Thợ mộc
-Cashier - Thu ngân
-Chef - Đầu bếp
-Dentist - Nha sĩ
-Doctor - Bác sĩ
-Electrician - Thợ điện
-Engineer - Kỹ sư
-Farmer - Nông dân
-Fisher - Ngư dân
-Gardener - Thợ làm vườn
-Interpreter - Thông dịch viên
-Journalist - Nhà báo
-Judge - Thẩm phán
-Lawyer - Luật sư
-Manager - Quản lý
-Manicurist - Thợ làm móng
-Mechanic - Thợ máy, thợ cơ khí
-Musician - Nhạc sĩ
-Nurse - Y tá
-Pharmacist - Dược sĩ
-Photographer - Nhiếp ảnh gia
-Pilot - Phi công
-Policeman - Cảnh sát
-Receptionist - Nhân viên tiếp tân
-Salesperson - Nhân viên bán hàng
-Secretary - Thư ký
-Supervisor - Giám thị
-Teacher - Giáo viên
-Translator - Phiên dịch viên
-Vet - Bác sĩ thú y
+abalone - Bào ngư
+ant - Kiến
+bear - Gấu
+butterfly - Bướm
+cat - Mèo
+chamois - Sơn dương
+camel - Lạc đà
+crocodile - Cá sấu
+dog - Con chó
+donkey - Con lừa
+dragon-fly - Chuồn chuồn
+dromedary - Lạc đà 1 bướu
+eel - Lươn
+elephant - Voi
+falcon - Chim ưng
+fly - Ruồi
+fox - Cáo
+frog - Ếch
+giraffe - Hươu cao cổ
+grasshopper - Châu chấu
+hummingbird - Chim ruồi
+insect - Côn trùng
+jellyfish - Sứa
+ladybird - Bọ rùa
+leopard - Con báo
+lion - Sư tử
+locust - Cào cào
+monkey - Khỉ
+mosquito - Muỗi
+mouse - Chuột
+mule - Con la
+mussel - Con trai
+octopus - Bạch tuộc
+ostrich - Đà điểu
+owl - Cú
+panda - Gấu trúc
+parrot - Vẹt
+peacock - Con công
+sheep - Cừu
+tiger - Hổ
+ankle - Mắt cá chân
+arm - Cánh tay
+artery - Động mạch
+back - Lưng
+beard - Râu
+bottom - Mông
+brain - Não
+cheek - Má
+chest - Ngực
+ear - Tai
+eardrum - Màng nhĩ
+elbow - Khuỷu tay
+eye - Mắt
+finger - Ngón tay
+hand - Bàn tay
+heart - Tim
+intestines - Ruột
+jaw - Quai hàm
+kidney - Thận
+knee - Đầu gối
+lip - Môi
+liver - Gan
+lung - Phổi
+nose - Mũi
+shoulder - Vai
+skeleton - Bộ xương
+skull - Hộp sọ
+stomach - Dạ dày
+throat - Cổ họng
+tongue - Lưỡi
+tooth - Răng
+wrist - Cổ tay
+accountant - Kế toán viên
+actor - Nam diễn viên
+actress - Nữ diễn viên
+architect - Kiến trúc sư
+artist - Họa sĩ
+baker - Thợ làm bánh
+barber - Thợ cắt tóc
+bricklayer - Phụ hồ
+businessman - Doanh nhân nam
+businesswoman - Doanh nhân nữ
+butcher - Người bán thịt
+carpenter - Thợ mộc
+cashier - Thu ngân
+chef - Đầu bếp
+dentist - Nha sĩ
+doctor - Bác sĩ
+electrician - Thợ điện
+engineer - Kỹ sư
+farmer - Nông dân
+fisher - Ngư dân
+gardener - Thợ làm vườn
+interpreter - Thông dịch viên
+journalist - Nhà báo
+judge - Thẩm phán
+lawyer - Luật sư
+manager - Quản lý
+manicurist - Thợ làm móng
+mechanic - Thợ máy, thợ cơ khí
+musician - Nhạc sĩ
+nurse - Y tá
+pharmacist - Dược sĩ
+photographer - Nhiếp ảnh gia
+pilot - Phi công
+policeman - Cảnh sát
+receptionist - Nhân viên tiếp tân
+salesperson - Nhân viên bán hàng
+secretary - Thư ký
+supervisor - Giám thị
+teacher - Giáo viên
+translator - Phiên dịch viên
+vet - Bác sĩ thú y
 aerobics - Thể dục nhịp điệu
 archery - Bắn cung
 athletics - Điền kinh
@@ -119,99 +148,3 @@ water polo - Bóng nước
 weightlifting - Cử tạ
 wrestling - Đấu vật
 yoga - Yoga
-ankle - Mắt cá chân
-arm - Cánh tay
-artery - Động mạch
-back - Lưng
-beard - Râu
-bottom - Mông
-brain - Não
-cheek - Má
-chest - Ngực
-ear - Tai
-eardrum - Màng nhĩ
-elbow - Khuỷu tay
-eye - Mắt
-finger - Ngón tay
-hand - Bàn tay
-heart - Tim
-intestines - Ruột
-jaw - Quai hàm
-kidney - Thận
-knee - Đầu gối
-lip - Môi
-liver - Gan
-lung - Phổi
-nose - Mũi
-shoulder - Vai
-skeleton - Bộ xương
-skull - Hộp sọ
-stomach - Dạ dày
-throat - Cổ họng
-tongue - Lưỡi
-tooth - Răng
-wrist - Cổ tay
-dress	- váy liền
-skirt	- chân váy
-miniskirt	- váy ngắn
-blouse	- áo sơ mi nữ
-stockings	- tất dài
-tights	- quần tất
-socks	- tất
-high-heels (high-heeled shoes)	- giày cao gót
-sandals	- dép xăng-đan
-stilettos	- giày gót nhọn
-trainers	- giầy thể thao
-wellingtons	- ủng cao su
-slippers	- dép đi trong nhà
-shoelace	- dây giày
-boots	- bốt
-leather jacket	- áo khoác da
-gloves	- găng tay
-vest	- áo lót ba lỗ
-underpants	- quần lót nam
-knickers	- quần lót nữ
-bra	- quần lót nữ
-blazer - áo khoác nam dạng vét
-swimming costume	- quần áo bơi
-pyjamas	- bộ đồ ngủ
-nightie (nightdress)	- váy ngủ
-dressing gown	- áo choàng tắm
-bikini	- bikini
-hat	- mũ
-baseball cap	- mũ lưỡi trai
-scarf	- khăn
-overcoat	- áo măng tô
-jacket	- áo khoác ngắn
-trousers (a pair of trousers)	- quần dài
-suit	- bộ com lê nam hoặc bộ vét nữ
-shorts	- quần soóc
-jeans	- quần bò
-shirt	- áo sơ mi
-tie	- cà vạt
-t-shirt	- áo phông
-raincoat	- áo mưa
-anorak	- áo khoác có mũ
-pullover	- áo len chui đầu
-sweater	- áo len
-cardigan	- áo len cài đằng trước
-jumper - áo len
-cauliflower - súp lơ
-garlic - tỏi
-broccoli - súp lơ xanh
-pumpkin - bí ngô
-cabbage - cải bắp
-radish(es) - củ cải
-lettuce - xà lách
-asparagus - măng tây
-mushroom - nấm
-tomato - cà chua
-onion - hành
-spinach - rau chân vịt
-cucumber - dưa chuột
-carrot - cà rốt
-eggplant - cà tím
-celery - cần tây
-potato - khoai tây
-pepper - ớt
-corn - ngô
